@@ -1,17 +1,22 @@
 ---
 name: Aculocity
 x-slug: aculocity
-description: ""
-image: ""
+description: Aculocity is a software development and data management company based
+  in Chicago.        Aculocity specializes in custom software development, data integration,
+  erp integration and technology management         with a vast amount of exeperience
+  in th...
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3715-aculocity.jpg
 x-kinRank: "7"
-x-alexaRank: ""
+x-alexaRank: "17982340"
 tags: Aculocity
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aculocity/master/_listings/aculocity/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
+- type: x-email
+  url: info@aculocity.com
 - type: x-twitter
   url: https://twitter.com/Aculocity
 - type: x-website
